@@ -84,8 +84,6 @@ A full-stack Learning Management System in development, built with Laravel, Vue.
 
 **Tech:** `Laravel` `PHP` `Vue.js` `Inertia.js` `MySQL` `Tailwind CSS`
 
-🔗 **Repository:** [Add your Courses_LMS repository URL](YOUR_LMS_REPOSITORY_URL)
-
 ### 2. Hospital & Clinics Management System
 
 A university team project focused on managing the operations of a hospital and its clinics. My contribution is focused on the **Admin Control** module.
@@ -96,14 +94,6 @@ A university team project focused on managing the operations of a hospital and i
 
 **Tech:** `Java` `JavaFX` `Database Management`
 
-🔗 **Repository:** [Add the project repository URL](YOUR_HOSPITAL_PROJECT_URL)
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdallah-mohamedA&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-mohamedA&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
 
 ## 🤝 Let's Connect
 
